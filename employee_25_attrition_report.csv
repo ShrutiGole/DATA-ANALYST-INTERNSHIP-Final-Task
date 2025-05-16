@@ -1,0 +1,9 @@
+Feature,Value
+Predicted Attrition,No
+Actual Attrition,No
+Attrition Risk Score,0.462
+MonthlyIncome,-0.4422030569906682
+Age,-1.307825001976872
+OverTime_Yes,1.568063624159353
+YearsAtCompany,-0.33697603551706157
+TotalWorkingYears,-0.816201062293396
